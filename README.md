@@ -1,3 +1,3 @@
 # CSS-CheatSheet
 
-Website Link : https://shopstyle.keerthana21.repl.co/
+Website Link : https://css-cheatsheet.keerthana21.repl.co/
